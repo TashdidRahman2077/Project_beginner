@@ -1,0 +1,13 @@
+#img1 {
+    width: 240px;
+    border: 10px ridge #D4B86A;
+}
+#img2 {
+    width: 240px;
+    border: 10px ridge #D4B86A;
+}
+
+ul {
+    list-style: none;
+    /* display: inline-block; */
+}

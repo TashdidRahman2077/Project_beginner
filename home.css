@@ -1,7 +1,5 @@
-body {
-  cursor: pointer;
-  border-top: 5px solid red;
-  border-bottom: 5px solid red;
+a {
+  display: inline-block;
 }
 h1 {
   color: red;
@@ -13,4 +11,7 @@ p {
 
 p {
   color: blue;
+clear: both;
 }
+
+
